@@ -1,0 +1,20 @@
+[0] [17:50:30 18-05-17] [LOGGER] -- : checking log files
+[1] [17:50:30 18-05-17] [CORE] -- : log files are checked
+[2] [17:50:30 18-05-17] [CORE] -- : Machine started
+[3] [17:50:30 18-05-17] [CREATE_PROTOCOL] -- : Protocol successfully created
+[4] [17:50:30 18-05-17] [CORE] -- : Processing successfully completed
+[5] [17:50:30 18-05-17] [LOGIN] -- : trying to login
+[6] [17:50:33 18-05-17] [LOGIN] -- : successfully logged in
+[7] [17:50:33 18-05-17] [MODES] -- : [Auto] mode is turned on
+[8] [17:50:33 18-05-17] [GRABBER] -- : Searching in hashtags [#developpeur]
+[9] [17:50:34 18-05-17] [GRABBER] -- : didn't find anything by hashtag #developpeur
+[10] [17:50:34 18-05-17] [GRABBER] -- : Searching in hashtags [#informatique]
+[11] [17:50:36 18-05-17] [GRABBER] -- : didn't find anything by hashtag #informatique
+[12] [17:50:36 18-05-17] [GRABBER] -- : Searching in hashtags [#programmation]
+[13] [17:50:37 18-05-17] [GRABBER] -- : didn't find anything by hashtag #programmation
+[14] [17:50:37 18-05-17] [GRABBER] -- : Searching in hashtags [#digital]
+[15] [17:50:39 18-05-17] [GRABBER] -- : didn't find anything by hashtag #digital
+[16] [17:50:39 18-05-17] [GRABBER] -- : Total grabbed users(294) & Total grabbed medias(294)
+[17] [17:50:39 18-05-17] [GRABBER] -- : Trying to get media (Bi34xKmnQRZ) information
+[18] [17:50:39 18-05-17] [ACTIONS] -- : trying to like a media[1781141846892545113]
+[19] [17:50:39 18-05-17] [LOGIN] -- : checking loging status

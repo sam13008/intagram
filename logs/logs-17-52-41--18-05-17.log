@@ -1,0 +1,15 @@
+[0] [17:52:41 18-05-17] [LOGGER] -- : checking log files
+[1] [17:52:41 18-05-17] [CORE] -- : log files are checked
+[2] [17:52:41 18-05-17] [CORE] -- : Machine started
+[3] [17:52:41 18-05-17] [CREATE_PROTOCOL] -- : Protocol successfully created
+[4] [17:52:41 18-05-17] [CORE] -- : Processing successfully completed
+[5] [17:52:41 18-05-17] [LOGIN] -- : trying to login
+[6] [17:52:42 18-05-17] [LOGIN] -- : successfully logged in
+[7] [17:52:42 18-05-17] [MODES] -- : [Auto] mode is turned on
+[8] [17:52:42 18-05-17] [GRABBER] -- : Searching in hashtags [#developpeur]
+[9] [17:52:43 18-05-17] [GRABBER] -- : didn't find anything by hashtag #developpeur
+[10] [17:52:43 18-05-17] [GRABBER] -- : Searching in hashtags [#informatique]
+[11] [17:52:45 18-05-17] [GRABBER] -- : didn't find anything by hashtag #informatique
+[12] [17:52:45 18-05-17] [GRABBER] -- : Searching in hashtags [#programmation]
+[13] [17:52:46 18-05-17] [GRABBER] -- : didn't find anything by hashtag #programmation
+[14] [17:52:46 18-05-17] [GRABBER] -- : Searching in hashtags [#digital]
